@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="수업내용">
+    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="url 경로 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,7 @@
       <workItem from="1690473115811" duration="118000" />
       <workItem from="1690506803350" duration="1886000" />
       <workItem from="1690508726793" duration="2436000" />
-      <workItem from="1690761691400" duration="1023000" />
+      <workItem from="1690761691400" duration="4687000" />
     </task>
     <task id="LOCAL-00001" summary="230718 수업내용">
       <option name="closed" value="true" />
@@ -177,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690762121091</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="수정">
+      <option name="closed" value="true" />
+      <created>1690764890629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690764890629</updated>
+    </task>
+    <task id="LOCAL-00010" summary="url 경로 수정">
+      <option name="closed" value="true" />
+      <created>1690767302413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690767302413</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +220,8 @@
     <MESSAGE value="슬러그 url 패턴 정규표현식 변경" />
     <MESSAGE value="account 앱 추가" />
     <MESSAGE value="수업내용" />
-    <option name="LAST_COMMIT_MESSAGE" value="수업내용" />
+    <MESSAGE value="수정" />
+    <MESSAGE value="url 경로 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="url 경로 수정" />
   </component>
 </project>
