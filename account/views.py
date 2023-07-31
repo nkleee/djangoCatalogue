@@ -24,7 +24,7 @@ def user_login(request):
                 return HttpResponse('Invalid login')
     else:
         form = LoginForm()
-    return render(request, 'account/login.html', {'form': form})
+    return render(request, 'account/register.html', {'form': form})
 
 
 @login_required
