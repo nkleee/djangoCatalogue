@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="회원 가입 템플릿, 가입 완료 템플릿 추가">
-      <change afterPath="$PROJECT_DIR$/account/templates/account/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/account/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
     </list>
@@ -123,7 +114,7 @@
       <workItem from="1690508726793" duration="2436000" />
       <workItem from="1690761691400" duration="8201000" />
       <workItem from="1690824314778" duration="596000" />
-      <workItem from="1690848468498" duration="606000" />
+      <workItem from="1690848468498" duration="2276000" />
     </task>
     <task id="LOCAL-00001" summary="230718 수업내용">
       <option name="closed" value="true" />
@@ -221,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690771439002</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가">
+      <option name="closed" value="true" />
+      <created>1690849101818</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690849101818</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +249,7 @@
     <MESSAGE value="url 경로 수정" />
     <MESSAGE value="사용자 등록 뷰 함수 추가, 비밀번호 해싱 알고리즘 변경" />
     <MESSAGE value="회원 가입 템플릿, 가입 완료 템플릿 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="회원 가입 템플릿, 가입 완료 템플릿 추가" />
+    <MESSAGE value="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가" />
   </component>
 </project>
