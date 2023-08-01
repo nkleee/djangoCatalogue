@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가">
+    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="장고 소셜 앱 인증 라이브러리 추가">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       <workItem from="1690508726793" duration="2436000" />
       <workItem from="1690761691400" duration="8201000" />
       <workItem from="1690824314778" duration="596000" />
-      <workItem from="1690848468498" duration="2276000" />
+      <workItem from="1690848468498" duration="5847000" />
     </task>
     <task id="LOCAL-00001" summary="230718 수업내용">
       <option name="closed" value="true" />
@@ -220,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690849101818</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="이메일 중복 방지 회원가입 폼">
+      <option name="closed" value="true" />
+      <created>1690852483271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690852483271</updated>
+    </task>
+    <task id="LOCAL-00015" summary="장고 소셜 앱 인증 라이브러리 추가">
+      <option name="closed" value="true" />
+      <created>1690852695549</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690852695549</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +266,8 @@
     <MESSAGE value="사용자 등록 뷰 함수 추가, 비밀번호 해싱 알고리즘 변경" />
     <MESSAGE value="회원 가입 템플릿, 가입 완료 템플릿 추가" />
     <MESSAGE value="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가" />
+    <MESSAGE value="이메일 중복 방지 회원가입 폼" />
+    <MESSAGE value="장고 소셜 앱 인증 라이브러리 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="장고 소셜 앱 인증 라이브러리 추가" />
   </component>
 </project>
