@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="장고 소셜 앱 인증 라이브러리 추가">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="61dd6564-c392-4c65-8351-ef55530a7307" name="변경" comment="ALLOW_HOSTS 설정 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,28 @@
       <workItem from="1690508726793" duration="2436000" />
       <workItem from="1690761691400" duration="8201000" />
       <workItem from="1690824314778" duration="596000" />
-      <workItem from="1690848468498" duration="5847000" />
+      <workItem from="1690848468498" duration="8554000" />
+      <workItem from="1690936927578" duration="2004000" />
+      <workItem from="1690974628489" duration="2510000" />
+      <workItem from="1691021800685" duration="1670000" />
+      <workItem from="1691108346558" duration="3550000" />
+      <workItem from="1691189727216" duration="3604000" />
+      <workItem from="1691291577905" duration="2363000" />
+      <workItem from="1691317720983" duration="1629000" />
+      <workItem from="1691370576788" duration="4376000" />
+      <workItem from="1691453173795" duration="4705000" />
+      <workItem from="1691543420736" duration="3446000" />
+      <workItem from="1691665953983" duration="1613000" />
+      <workItem from="1691752707375" duration="1576000" />
+      <workItem from="1691772554730" duration="1383000" />
+      <workItem from="1691846549771" duration="1506000" />
+      <workItem from="1691979436449" duration="2627000" />
+      <workItem from="1692059158262" duration="4487000" />
+      <workItem from="1692123552053" duration="847000" />
+      <workItem from="1692153460800" duration="2361000" />
+      <workItem from="1692235947730" duration="2334000" />
+      <workItem from="1692318030874" duration="9883000" />
+      <workItem from="1692577454421" duration="3503000" />
     </task>
     <task id="LOCAL-00001" summary="230718 수업내용">
       <option name="closed" value="true" />
@@ -236,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690852695549</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ALLOW_HOSTS 설정 추가">
+      <option name="closed" value="true" />
+      <created>1690856306456</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690856306456</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +295,7 @@
     <MESSAGE value="메세지 프레임워크 추가 및 수정 함수 메시지 성공, 실패 추가" />
     <MESSAGE value="이메일 중복 방지 회원가입 폼" />
     <MESSAGE value="장고 소셜 앱 인증 라이브러리 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="장고 소셜 앱 인증 라이브러리 추가" />
+    <MESSAGE value="ALLOW_HOSTS 설정 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="ALLOW_HOSTS 설정 추가" />
   </component>
 </project>
